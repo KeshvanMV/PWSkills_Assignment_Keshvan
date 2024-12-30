@@ -69,6 +69,8 @@ CREATE TABLE employees (
 
 # SQL Commands
 
+USE mavenmovies;
+
 -- Q1. Identify Primary and Foreign Keys in Maven Movies DB
 -- Ans: 
 -- 1. Primary Keys:
